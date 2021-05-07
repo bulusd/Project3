@@ -1,0 +1,1 @@
+You need to setup DB Browser for SQLite first to acess the data in the appointments.db
